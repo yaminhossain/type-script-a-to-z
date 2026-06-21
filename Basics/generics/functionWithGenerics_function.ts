@@ -1,5 +1,5 @@
 {
-  //Array without generics
+  //Function without generics
   const createArray = (params: string): string[] => {
     return [params];
   };
